@@ -5,17 +5,18 @@ import { BsCodeSlash } from "react-icons/bs";
 
 export const Navbar = () => {
     const [bar, setBar] = useState(false);
+   
 
   return (
     
-        <DIV bar={bar} id="nav-menu" >
+        <DIV bar={bar}  >
     <Logo>
             <span ><BsCodeSlash/></span>
-            <h1>Portfolio</h1>
+           <a href="/Home" ><h1>Portfolio</h1></a>
         </Logo>
        <br />
 
-        <Nav bar={bar} id="nav-menu">
+        <Nav bar={bar} id="nav-menu" >
             <span><a class="nav-link home" href="/Home">Home</a></span>
             <span><a class="nav-link about"  href="/About">About Me</a></span>
             <span><a class="nav-link skills" href="/Skills">Skills</a></span>
@@ -51,7 +52,11 @@ const DIV=styled.div`
      background: linear-gradient(145deg, #e2e8ec, #ffffff);
      box-shadow: 4px 4px 8px #cbcbcb, -4px -4px 8px #ffffff;
      color: blue;
-     height: 30px;
+     height: 40px;
+    a{
+        text-decoration:none;
+        color: blue;
+    }
      /* position: sticky; */
    
   
@@ -146,7 +151,7 @@ const Nav = styled.div`
                 right: 0;
                 bottom: -5px;
                 height: 2px;
-                background-color: #fff;
+                background-color: #4a80b3;
                 transform: scale(0);
                 transform-origin: right;
                 transition: transform 400ms ease-in-out;
@@ -157,7 +162,7 @@ const Nav = styled.div`
             }
             :hover{
                 opacity: 1.7;
-                filter: drop-shadow(0px 15px 15px #4a80b3);
+                
             }
         }
     }
