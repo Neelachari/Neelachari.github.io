@@ -26,7 +26,6 @@ body {
      * COLORS
      */
   
-     
     /** Background colors */
     --bg-wild-blue-yonder: hsla(216, 33%, 68%, 1);
     --bg-carolina-blue: rgb(102, 110, 230);
@@ -43,7 +42,7 @@ body {
     --text-alice-blue: hsla(216, 100%, 95%, 1);
     --text-columbia-blue: hsla(199, 69%, 84%, 1);
     --text-wild-blue-yonder: hsla(216, 33%, 68%, 1);
-    --text-carolina-blue: hsla(199, 89%, 49%, 1);
+    --text-carolina-blue: rgb(26, 52, 100);
     --text-shadow-blue: hsla(217, 24%, 59%, 1);
     --text-slate-gray: hsla(217, 17%, 48%, 1);
   
@@ -149,6 +148,8 @@ body {
 }
 
 /*  */
+
+
 
 .home {
   display: flex;
@@ -406,6 +407,7 @@ span {
   .project-layer p {
     font-size: 1.5rem;
     margin: .3rem 0 1rem;
+    
   }
   .project-layer a {
     display:inline-block;
@@ -415,10 +417,12 @@ span {
     height: 5rem;
     background: var(--text-color);
     border-radius: 50%;
+    
   }
   .project-layer a i {
-    font-size: 2rem;
+    font-size: 4rem;
     color: var(--bg-oxford-blue-2);
+    
   }
   .projectlinks {
     display: flex;
