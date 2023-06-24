@@ -601,6 +601,7 @@ body.dark {
   .heading {
     text-align: center;
     font-size: 4.5rem;
+   
   }
   
   .about-content h3 {
@@ -844,14 +845,25 @@ body.dark {
   
 /*-----------------------------------Contact----------------------------------------*/
 
+
+
+
+
+
+
+
+
 #contact {
   height: 400px;
   width: 100%;
-  /* color: var(--second-bg-color); */
+  
+  
+  
   background: var(--);
   background: var(--bg-oxford-blue);
   text-align: center;
 }
+
 
 #contact > div > p {
   color: var(--secondary-color);
@@ -865,6 +877,9 @@ body.dark {
   justify-content: center;
   font-size: 1.5rem;
   margin-top: 50px;
+  
+  
+ 
 }
 
 .contact_me > p > a > span {
@@ -880,6 +895,10 @@ body.dark {
 .contact_me > p {
   margin-bottom: 20px;
 }
+
+
+
+
 
 
 
@@ -921,6 +940,8 @@ body.dark {
 #github-stats {
   justify-content: center;
 }
+
+
 /* ----------------------------------------------------------------- */
 
 /*-----------------------------------*\
