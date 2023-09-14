@@ -9,10 +9,24 @@ menuIcon.onclick = () => {
 };
 
 // *=============================== github calender ==================================
+    // GitHubCalendar(".calendar", "Neelachari");
+
+    // // or enable responsive functionality:
+    // GitHubCalendar(".calendar", "Neelachari", { responsive: true });
+
+    // <script>
     GitHubCalendar(".calendar", "Neelachari");
 
     // or enable responsive functionality:
     GitHubCalendar(".calendar", "Neelachari", { responsive: true });
+
+    // Use a proxy
+    GitHubCalendar(".calendar", "Neelachari", {
+       proxy (username) {
+         return fetch(`https://your-proxy.com/github?user=${Neelachari}`)
+       }
+    }).then(r => r.text())
+// </script>
 
 // *=============================== resume open in new tab ==================================
 
