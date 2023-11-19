@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c9388975.css",
-    "main.js": "/static/js/main.7b4feddd.js",
+    "main.js": "/static/js/main.41eb92f7.js",
     "static/media/Pets-connect.png": "/static/media/Pets-connect.fe17248f0f3d7eeb397e.png",
     "static/media/s3_neel.png": "/static/media/s3_neel.d68b1a87c7417a1e9c46.png",
     "static/media/Belk_clone.png": "/static/media/Belk_clone.bbe69266d4ca6df2037a.png",
@@ -10,10 +10,12 @@
     "static/media/react.png": "/static/media/react.fb59dfc6bb1bac6b0ad0.png",
     "static/media/pharmacy_clone.png": "/static/media/pharmacy_clone.fb1207a0b5a552718a1a.png",
     "static/media/find_my_trip.jpg": "/static/media/find_my_trip.6525df88926d234dda11.jpg",
+    "static/media/chatgpt-openai-logo-icon-free-png.webp": "/static/media/chatgpt-openai-logo-icon-free-png.424d31a73a3068e5bcbe.webp",
     "static/media/typescript.png": "/static/media/typescript.659e4b9351cf1baa6930.png",
     "static/media/redux.png": "/static/media/redux.0ae06ac2510da8b45829.png",
     "static/media/vscode.png": "/static/media/vscode.e9d0d0ea59c04d35a64f.png",
     "static/media/netlify.jpg": "/static/media/netlify.1a02b981ee6f2472e4c7.jpg",
+    "static/media/chakra-ui.png": "/static/media/chakra-ui.9132f0faa65f24438cfb.png",
     "static/media/css.png": "/static/media/css.286a9900f844f7c0ed5f.png",
     "static/media/git.jpg": "/static/media/git.64e83780d18ba4a9c989.jpg",
     "static/media/express-js.png": "/static/media/express-js.981cce6c4eeea71034e2.png",
@@ -21,10 +23,10 @@
     "static/media/nodejs-original.svg": "/static/media/nodejs-original.10c9e2aa0ca7edf36fceae25fec038a1.svg",
     "index.html": "/index.html",
     "main.c9388975.css.map": "/static/css/main.c9388975.css.map",
-    "main.7b4feddd.js.map": "/static/js/main.7b4feddd.js.map"
+    "main.41eb92f7.js.map": "/static/js/main.41eb92f7.js.map"
   },
   "entrypoints": [
     "static/css/main.c9388975.css",
-    "static/js/main.7b4feddd.js"
+    "static/js/main.41eb92f7.js"
   ]
 }
