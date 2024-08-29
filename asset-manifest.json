@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.c9388975.css",
-<<<<<<< HEAD
-    "main.js": "/static/js/main.ef9a5aee.js",
-=======
-    "main.js": "/static/js/main.41eb92f7.js",
->>>>>>> origin/main
+    "main.js": "/static/js/main.c338ca17.js",
+    "static/media/PlyStar.gif": "/static/media/PlyStar.e8a941353a0f491938de.gif",
     "static/media/Pets-connect.png": "/static/media/Pets-connect.fe17248f0f3d7eeb397e.png",
+    "static/media/AI.gif": "/static/media/AI.6b2b382e3689af791602.gif",
+    "static/media/Findmy.gif": "/static/media/Findmy.d150938c45495caeca50.gif",
     "static/media/s3_neel.png": "/static/media/s3_neel.d68b1a87c7417a1e9c46.png",
+    "static/media/Fashionhub.gif": "/static/media/Fashionhub.7cd737290ef3dd33dcb4.gif",
     "static/media/Belk_clone.png": "/static/media/Belk_clone.bbe69266d4ca6df2037a.png",
     "static/media/mid-shoppe.png": "/static/media/mid-shoppe.b0037f61571a8c0bd1fe.png",
     "static/media/Fashion_hub_clone.png": "/static/media/Fashion_hub_clone.cc5d922257b453985d4b.png",
+    "static/media/Belk_vdo.gif": "/static/media/Belk_vdo.e23810546bc765372bcd.gif",
     "static/media/react.png": "/static/media/react.fb59dfc6bb1bac6b0ad0.png",
+    "static/media/med_shpee.gif": "/static/media/med_shpee.45f089a748428c6d13cc.gif",
     "static/media/pharmacy_clone.png": "/static/media/pharmacy_clone.fb1207a0b5a552718a1a.png",
     "static/media/find_my_trip.jpg": "/static/media/find_my_trip.6525df88926d234dda11.jpg",
     "static/media/chatgpt-openai-logo-icon-free-png.webp": "/static/media/chatgpt-openai-logo-icon-free-png.424d31a73a3068e5bcbe.webp",
@@ -27,18 +29,10 @@
     "static/media/nodejs-original.svg": "/static/media/nodejs-original.10c9e2aa0ca7edf36fceae25fec038a1.svg",
     "index.html": "/index.html",
     "main.c9388975.css.map": "/static/css/main.c9388975.css.map",
-<<<<<<< HEAD
-    "main.ef9a5aee.js.map": "/static/js/main.ef9a5aee.js.map"
+    "main.c338ca17.js.map": "/static/js/main.c338ca17.js.map"
   },
   "entrypoints": [
     "static/css/main.c9388975.css",
-    "static/js/main.ef9a5aee.js"
-=======
-    "main.41eb92f7.js.map": "/static/js/main.41eb92f7.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.c9388975.css",
-    "static/js/main.41eb92f7.js"
->>>>>>> origin/main
+    "static/js/main.c338ca17.js"
   ]
 }
